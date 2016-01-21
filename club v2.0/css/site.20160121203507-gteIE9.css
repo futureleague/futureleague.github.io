@@ -1,0 +1,128 @@
+
+.button {
+	behavior: url(js/PIE.htc);
+	-pie-background: rgba(42,161,152,0.639);
+}
+.cont-31 {
+	behavior: url(js/PIE.htc);
+	-pie-background: linear-gradient(left top, rgb(42,161,152) 0%, rgb(43,192,181) 100%);
+	height: 1202px;
+}
+.cont-76 {
+	behavior: url(js/PIE.htc);
+	-pie-background: linear-gradient(left top, rgb(255,204,102) 0%, rgb(247,210,135) 100%);
+	height: 1310px;
+}
+.cont-135 {
+	behavior: url(js/PIE.htc);
+	-pie-background: rgba(108,113,196,0.891);
+}
+.cont-157 {
+	behavior: url(js/PIE.htc);
+	-pie-background: linear-gradient(left bottom, rgb(91,187,255) 0%, rgb(38,139,210) 100%);
+	height: 1210px;
+}
+@media (min-width:960px) and (max-width:1199px) {
+.button {
+	behavior: url(js/PIE.htc);
+	-pie-background: rgba(42,161,152,0.639);
+}
+.cont-31 {
+	behavior: url(js/PIE.htc);
+	-pie-background: linear-gradient(left top, rgb(42,161,152) 0%, rgb(43,192,181) 100%);
+	height: 962px;
+}
+.cont-76 {
+	behavior: url(js/PIE.htc);
+	-pie-background: linear-gradient(left top, rgb(255,204,102) 0%, rgb(247,210,135) 100%);
+	height: 1048px;
+}
+.cont-135 {
+	behavior: url(js/PIE.htc);
+	-pie-background: rgba(108,113,196,0.891);
+}
+.cont-157 {
+	behavior: url(js/PIE.htc);
+	-pie-background: linear-gradient(left bottom, rgb(91,187,255) 0%, rgb(38,139,210) 100%);
+	height: 968px;
+}
+}
+
+@media (min-width:768px) and (max-width:959px) {
+.button {
+	behavior: url(js/PIE.htc);
+	-pie-background: rgba(42,161,152,0.639);
+}
+.cont-31 {
+	behavior: url(js/PIE.htc);
+	-pie-background: linear-gradient(left top, rgb(42,161,152) 0%, rgb(43,192,181) 100%);
+	height: 770px;
+}
+.cont-76 {
+	behavior: url(js/PIE.htc);
+	-pie-background: linear-gradient(left top, rgb(255,204,102) 0%, rgb(247,210,135) 100%);
+	height: 838px;
+}
+.cont-135 {
+	behavior: url(js/PIE.htc);
+	-pie-background: rgba(108,113,196,0.891);
+}
+.cont-157 {
+	behavior: url(js/PIE.htc);
+	-pie-background: linear-gradient(left bottom, rgb(91,187,255) 0%, rgb(38,139,210) 100%);
+	height: 774px;
+}
+}
+
+@media (min-width:480px) and (max-width:767px) {
+.button {
+	behavior: url(js/PIE.htc);
+	-pie-background: rgba(42,161,152,0.639);
+}
+.cont-31 {
+	behavior: url(js/PIE.htc);
+	-pie-background: linear-gradient(left top, rgb(42,161,152) 0%, rgb(43,192,181) 100%);
+	height: 481px;
+}
+.cont-76 {
+	behavior: url(js/PIE.htc);
+	-pie-background: linear-gradient(left top, rgb(255,204,102) 0%, rgb(247,210,135) 100%);
+	height: 524px;
+}
+.cont-135 {
+	behavior: url(js/PIE.htc);
+	-pie-background: rgba(108,113,196,0.891);
+}
+.cont-157 {
+	behavior: url(js/PIE.htc);
+	-pie-background: linear-gradient(left bottom, rgb(91,187,255) 0%, rgb(38,139,210) 100%);
+	height: 484px;
+}
+}
+
+@media (max-width:479px) {
+.button {
+	behavior: url(js/PIE.htc);
+	-pie-background: rgba(42,161,152,0.639);
+}
+.cont-31 {
+	behavior: url(js/PIE.htc);
+	-pie-background: linear-gradient(left top, rgb(42,161,152) 0%, rgb(43,192,181) 100%);
+	height: 740px;
+}
+.cont-76 {
+	behavior: url(js/PIE.htc);
+	-pie-background: linear-gradient(left top, rgb(255,204,102) 0%, rgb(247,210,135) 100%);
+	height: 421px;
+}
+.cont-135 {
+	behavior: url(js/PIE.htc);
+	-pie-background: rgba(108,113,196,0.891);
+}
+.cont-157 {
+	behavior: url(js/PIE.htc);
+	-pie-background: linear-gradient(left bottom, rgb(91,187,255) 0%, rgb(38,139,210) 100%);
+	height: 346px;
+}
+}
+
